@@ -1,4 +1,2 @@
 [web]
-node-path = ./pwn.sh
-[alias]
-web = !/Users/jozocacic/Desktop/sapling-pwn-repo/pwn.sh
+isl-dist-path = /root/saptesthihi/isl-dist.tar.xz
